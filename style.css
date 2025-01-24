@@ -1,0 +1,29 @@
+#child{
+    float:left;
+    margin-right: 20px;
+  
+}
+
+#teen{
+    float:left;
+    margin-right: 20px;
+}
+
+#adult{
+    float:left;
+    margin-right: 20px;
+}
+#hob{
+    float:left;
+    margin-right: 20px;
+}
+#hob2{
+    float:left;
+    margin-right: 20px;
+}
+
+body {
+   
+    background: linear-gradient(to top,rgb(255, 250, 250), rgb(204, 200, 200),rgb(155, 151, 151),yellow); 
+  }
+
